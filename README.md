@@ -1,1 +1,3 @@
-# TMSA_CP_Website
+# TMSA CyberPatriots Websites
+
+Website of the TMSA CyberPatriots Team
